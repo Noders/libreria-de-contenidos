@@ -26,17 +26,38 @@ Es una coleccion de links y documentos para aprender diferentes tecnologias / le
 
 #### Testing con ReactJS
 
+-
+-
+-
+
+
 #### AngularJS
+
+-
+-
+-
 
 #### Testing con AngularJS
 
-#### 
+
+-
+-
+-
 
 #### Typescript
 
 -
 -
 -
+
+
+--------------
+
+### TODO:
+
+- Agregar mas links :D 
+
+--------------
 
 Unete a nuestro discord! https://noders.live/discord
 
