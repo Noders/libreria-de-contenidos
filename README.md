@@ -1,6 +1,6 @@
 # Que es este repo?
 
-Es una coleccion de links y documentos para aprender diferentes tecnologias /
+Es una coleccion de enlaces y documentos para aprender diferentes tecnologias,
 lenguajes y habilidades, mantenido por la comunidad de
 [Noders](https://noders.com/).
 
