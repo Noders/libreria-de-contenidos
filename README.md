@@ -24,6 +24,18 @@ lenguajes y habilidades, mantenido por la comunidad de
 ## Node.js
 
 
+## API design
+
+Dos recomendaciones que aparecen con regularidad en el canal, un libro y una
+serie de recursos que incluye un par de libros y comunidad en forma de canal de
+Slack:
+
+- [REST API Design Rulebook: Designing Consistent RESTful Web Service
+  Interfaces](https://www.amazon.com/REST-API-Design-Rulebook-Consistent-ebook/dp/B005XE5A7Q/ref=sr_1_1?dchild=1&keywords=api+rest&qid=1594000511&sr=8-1&pldnSite=1)
+  de Mark Masse.
+
+- [Build APIs You Won't Hate](https://apisyouwonthate.com/) por Philip Sturgeon.
+
 ## React.JS
 
 
