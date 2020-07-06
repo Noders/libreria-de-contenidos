@@ -9,16 +9,18 @@ lenguajes y habilidades, mantenido por la comunidad de
 #### Desarrollo Web
 
 - Una de las mejores herramientas para aprender desarrollo web hoy en dia es:
-  https://www.freecodecamp.org/, un curso gratuito que partiendo desde lo mas
-  basico te permite desarrollar tus habilidades hasta desarrollar tu propio
-  portafolio con projectos web
+  [Free Code Camp](https://www.freecodecamp.org/), un curso gratuito que
+  partiendo desde lo mas basico te permite desarrollar tus habilidades hasta
+  desarrollar tu propio portafolio con projectos web.
 
 #### JavaScript
 
-- Un excelente curso es You Don't know JS, un libro genial y opensource, puedes
-  leer su version original en ingles aca
-  (https://github.com/getify/You-Dont-Know-JS) o la traduccion en espaniol en
-  este link **https://github.com/You-Dont-Know-JS-ES/Traduccion**
+- Un excelente curso es
+  [You Don't know JS](https://github.com/getify/You-Dont-Know-JS), un libro
+  genial y opensource, escrito por Kyle Simpson.
+
+  También se puede leer en
+  [español](https://github.com/You-Dont-Know-JS-ES/Traduccion).
 
 #### Node.js
 
