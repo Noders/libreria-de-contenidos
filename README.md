@@ -4,16 +4,15 @@ Es una coleccion de enlaces y documentos para aprender diferentes tecnologias,
 lenguajes y habilidades, mantenido por la comunidad de
 [Noders](https://noders.com/).
 
-### Como aprender:
 
-#### Desarrollo Web
+## Desarrollo Web
 
 - Una de las mejores herramientas para aprender desarrollo web hoy en dia es:
   [Free Code Camp](https://www.freecodecamp.org/), un curso gratuito que
   partiendo desde lo mas basico te permite desarrollar tus habilidades hasta
   desarrollar tu propio portafolio con projectos web.
 
-#### JavaScript
+## JavaScript
 
 - Un excelente curso es
   [You Don't know JS](https://github.com/getify/You-Dont-Know-JS), un libro
@@ -22,22 +21,22 @@ lenguajes y habilidades, mantenido por la comunidad de
   También se puede leer en
   [español](https://github.com/You-Dont-Know-JS-ES/Traduccion).
 
-#### Node.js
+## Node.js
 
 
-#### React.JS
+## React.JS
 
 
-#### Testing con ReactJS
+## Testing con ReactJS
 
 
-#### AngularJS
+## AngularJS
 
 
-#### Testing con AngularJS
+## Testing con AngularJS
 
 
-#### Typescript
+## Typescript
 
 
 
